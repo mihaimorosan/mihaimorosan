@@ -1,5 +1,4 @@
 ## Hi there 👋 My name is Mihai Morosan!
-<br>
 
 ### I am Currently a Fourth Year Student at Ryerson University!
 - 🔭 I’m currently working on a Django based blog website!
