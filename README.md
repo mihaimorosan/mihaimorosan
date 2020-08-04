@@ -29,7 +29,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" src="https://content.filemaker.com/l/526331/2018-04-10/8b97m5/526331/155794/0318_042_NA_FMPRO17_ADV_icon_200x200.jpg">
+<img align="left" src="https://content.filemaker.com/l/526331/2018-04-10/8b97m5/526331/155794/0318_042_NA_FMPRO17_ADV_icon_200x200.jpg" style="width: 48px">
 <!-- Technologies -->
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/digitalocean.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
