@@ -45,6 +45,8 @@
 <img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/mac-os--v1.png" width="48"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <br>
+<br>
+
 ---
 
 [![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=mihaimorosan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
