@@ -44,9 +44,9 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/mac-os--v1.png" width="48"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-
+<br>
 ---
 
-[![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=mihaimorosan)](https://github.com/anuraghazra/github-readme-stats)
+[![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=mihaimorosan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/mihai-morosan
