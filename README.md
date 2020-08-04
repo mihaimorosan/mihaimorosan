@@ -45,8 +45,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 
 <br>
-<br>
-<br>
+
 
 [![Mihai's github stats](https://github-readme-stats.vercel.app/api?username=mihaimorosan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
