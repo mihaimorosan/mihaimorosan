@@ -35,7 +35,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/console.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/mac-os--v1.png"/>
+<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/mac-os--v1.png" width="48"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <!--
 **mihaimorosan/mihaimorosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
