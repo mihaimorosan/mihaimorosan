@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Mihai Morosan!
 
 ### I am Currently a Fourth Year Student at Ryerson University!
-- 🔭 I’m currently working on a Django based blog website!
+- 🔭 I’m currently working on integrating XML with Java Spring!
 - 🌱 I’m currently learning game development using Unity!
 - 🥅 My current goals are to launch my own portfolio webpage!
 - ⚡ Fun fact: I like to play video games with my friends as well as playing guitar / piano!
@@ -31,6 +31,7 @@
 <!-- Frameworks -->
 <img align="left" src="https://img.icons8.com/color/48/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
 <br>
 <br>
