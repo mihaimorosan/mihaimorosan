@@ -7,7 +7,7 @@
 - 🔭 working on creating a food tracking app on iOS using React Native
 - 🌱 learning about game development using Unity and Blender!
 - 🥅 designing my own portfolio webpage!
-- ⚡ Fun fact: I like to play video games with my friends as well as playing guitar / piano!
+- ⚡ playing video games with my friends or playing on the guitar / piano!
 
 ---
 
