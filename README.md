@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Mihai Morosan!
 
-### I am Currently a Fourth Year Student at Ryerson University!
+### I am currently an Aspiring SOftware Engineer!
 - 🔭 I’m currently working on integrating XML with Java Spring!
 - 🌱 I’m currently learning game development using Unity!
 - 🥅 My current goals are to launch my own portfolio webpage!
