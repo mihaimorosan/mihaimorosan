@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Mihai Morosan!
+## Hello there! 👋 My name is Mihai Morosan!
 
 ### I am an aspiring Software Engineer!
 ### Currently, I work at FDM Group Canada as an IT Consultant!
