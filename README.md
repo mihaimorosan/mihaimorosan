@@ -1,6 +1,9 @@
 ## Hi there 👋 My name is Mihai Morosan!
 
-### I am currently an Aspiring SOftware Engineer!
+### I am an aspiring Software Engineer!
+### Currently, I work at FDM Group Canada as an IT Consultant!
+
+### On the side, I am:
 - 🔭 I’m currently working on integrating XML with Java Spring!
 - 🌱 I’m currently learning game development using Unity!
 - 🥅 My current goals are to launch my own portfolio webpage!
