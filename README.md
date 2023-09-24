@@ -1,7 +1,6 @@
 ## Hello there! My name is Mihai Morosan!
 
-### I am an aspiring Software Engineer!
-### Currently, I work at FDM Group Canada as an IT Consultant!
+### I am Software Engineer!
 
 ### On the side, I am:
 - 🔭 working on creating a food tracking app on iOS using React Native
