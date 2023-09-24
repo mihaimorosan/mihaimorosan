@@ -1,6 +1,6 @@
 ## Hello there! My name is Mihai Morosan!
 
-### I am Software Engineer!
+### I am a Software Engineer!
 
 ### On the side, I am:
 - 🔭 working on creating a food tracking app on iOS using React Native
